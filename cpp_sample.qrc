@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TrainTrackSolver.qml</file>
+        <file>CustomNode.qml</file>
+        <file>CustomEdge.qml</file>
+        <file>CustomGroup.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Test.xml</file>
+        <file>Test2.xml</file>
+        <file>Test3.xml</file>
+        <file>Test4.xml</file>
+    </qresource>
+</RCC>

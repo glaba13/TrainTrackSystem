@@ -1,0 +1,53 @@
+<data>
+    <segment id="1" x="800" y = "200">
+        <link id="3"/>
+          <link id="13"/>
+    </segment>
+    <segment id="2"  x="400" y = "500">
+
+       <link id="9"/>
+        <link id="10"/>
+    </segment>
+    <segment id="3"  x="400" y = "200">
+<link id="7"/>
+      <link id="2"/>
+    </segment>
+    <segment id="4"  x="1000" y = "400">
+      <link id="1"/>
+    </segment>
+    <segment id="5"  x="1000" y = "200">
+      <link id="1"/>
+    </segment>
+    <segment id="6"  x="800" y = "500">
+      <link id="8"/>
+    </segment>
+    <segment id="7"  x="100" y = "100">
+
+    </segment>
+    <segment id="8"  x="600" y = "500">
+      <link id="2"/>
+    </segment>
+    <segment id="9"  x="600" y = "300">
+      <link id="1"/>
+    </segment>
+    <segment id="10"  x="200" y = "500">
+
+    </segment>
+    <segment id="11"  x="200" y = "600">
+      <link id="2"/>
+    </segment>
+    <segment id="12"  x="1000" y = "600">
+      <link id="6"/>
+      <link id="4"/>
+    </segment>
+    <segment id="13"  x="800" y = "50">
+
+    </segment>
+    <segment id="14"  x="1000" y = "100">
+      <link id="1"/>
+    </segment>
+    <train from = "5" to = "10"/>
+    <train from = "11" to = "7"/>
+    <train from = "12" to = "13"/>
+</data>
+
